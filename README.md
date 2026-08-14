@@ -6,7 +6,9 @@ npm run dev
 Feel free to do as much or as little styling as you feel is necessary. Functionality is preferred.
 
 ### Tasks
-## Create a basic header control for the header tag in App.tsx
+
+## Create a Header Component
+    [] Create a header component and add the header tag contents in App.tsx
 
 ## Show Users
     [] In the data folder there is an array of user data
